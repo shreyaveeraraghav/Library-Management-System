@@ -11,7 +11,7 @@ With the above features, our project simulates a Database System that can seamle
 The display operations provides users with the details of the books present in the database such as the book name, the author of the book, price and the count of the books available at the library. The insert operation allows addition of new books whereas the update operation provides a provision to change the details of a book. As for the borrow operation, the system dynamically updates the database, reducing the book count upon borrowing and preventing borrowing when copies are unavailable. For each of the operations, an interface has been created using Java Swing. 
 
 Team Members:
-Rhea John
-Renu Lijo
-Shreya Sunil
+Rhea John, 
+Renu Lijo, 
+Shreya Sunil, 
 Shreya Veeraraghav
